@@ -1,4 +1,9 @@
-# Flowey's Time Machine
-Undertale SAVE editor
+# 小花的时间机器-Flowey's Time Machine
+Undertale 存档编辑器
 
-http://crumblingstatue.github.io/FloweysTimeMachine
+English：
+https://github.com/crumblingstatue/FloweysTimeMachine
+
+某些东西没有翻译，欢迎来帮忙。
+
+**v0.1 已翻译（当前版本）**
